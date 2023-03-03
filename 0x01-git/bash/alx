@@ -1,6 +1,34 @@
-echo
-!/bin/bash
-ALX
-echo ALX
+#!/bin/bash
+echo "ALX"
+^C
+cd root
+cd alx-pre_course/0x01-git/
+^C
+Ã^C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#!/bin/bash
+echo "ALX" 
 #!/bin/bash
 echo "ALX" 
